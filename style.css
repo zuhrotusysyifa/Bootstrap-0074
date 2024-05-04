@@ -1,0 +1,87 @@
+.container {
+    width: 800px;
+    font-family: "Poppins", sans-serif;
+}.card {
+    background-color: rgb(39, 36, 36);
+    color: white;
+}
+.collaps {
+    justify-content: flex-end;
+
+}
+.navbar-toggler {
+    background-color: white !important;
+}
+.main {
+    width: auto;
+    height: 100%;
+    display: flexbox;
+    flex-wrap: wrap;
+    margin: 2em 0em;
+}
+.audio {
+    margin: 30px;
+    box-shadow: none;
+}
+.audio img {
+    width: 200px;
+    height: 200px;
+    margin: 0.5em;
+}
+.audio h2 {
+    font-weight: 500;
+    font-size: medium;
+    margin: 0.5em;
+
+}
+.audio p {
+    font-size: small;
+    font-weight: 300;
+    text-align: center;
+    margin: 0.5em;
+}
+h2 {
+    text-align: center;
+}
+.row {
+    background-color: rgb(39, 36, 36);
+    color: white;
+    
+}
+button {
+    color: white;
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 5px;
+}
+p1 {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: burlywood;
+
+}
+.navbar {
+    align-items: center;
+}
+.card-footer {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.sos {
+    margin: 10px;
+    color: white;
+}
+.footer {
+    width: auto;
+    height: 30px;
+    background-color: rgb(48, 47, 47);
+    color: black;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+
+}
